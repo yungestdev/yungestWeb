@@ -4,3 +4,8 @@ to install this you must:
 ```batch
 pip install --upgrade yungestWeb
 ``` 
+
+check the documentation to learn the basics :)
+_______________________________________________________________________
+
+I'm going to try to keep this project alive.
