@@ -6,7 +6,7 @@ pip install --upgrade yungestWeb
 ``` 
 
 check the documentation to learn the basics :)
-                            Dev Logs
+                    
 _______________________________________________________________________
                     
 ```text
