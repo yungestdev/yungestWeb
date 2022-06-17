@@ -6,6 +6,14 @@ pip install --upgrade yungestWeb
 ``` 
 
 check the documentation to learn the basics :)
+
+_______________________________________________________________________
+
+```text
+    I'm working on a sqlite3 implementation to make accounts system 
+    accessible to everyone
+``` 
+
 _______________________________________________________________________
 
 I'm going to try to keep this project alive.
