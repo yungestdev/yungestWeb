@@ -10,8 +10,7 @@ check the documentation to learn the basics :)
 _______________________________________________________________________
                     
 ```text
-    I'm working on a sqlite3 implementation to make accounts system 
-    accessible to everyone
+    I'm working on a newer 404 not found page
 ``` 
 
 _______________________________________________________________________
